@@ -1,6 +1,3 @@
-In order to have a discussion about your skills and approach to web development, we have outlined a small project for you to complete in advance of the first round interview. The goal of this assignment is to demonstrate how you would solve a development problem, showing your use of HMTL, CSS, and JavaScript / JQuery. 
-
-This position will involve more complex work, using our content management system to create stories and landing pages. However, we're keeping it simple for this assignment to see how you will address a small feature. 
 
 The assignment is to recreate the attached comps from scratch. You can use the HTML file as a starting point, which links to the fonts, Bootstrap, and latest jQuery. The brand colors are available here: https://brand.vt.edu/identity/color/color-util.html
 
